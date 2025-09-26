@@ -1,5 +1,5 @@
 
-# Task 3 — Dashboard Design using Power BI
+# Task 4 — Dashboard Design using Power BI
 
 ## Objective
 The objective of this task is to design an interactive sales dashboard using **Power BI**. 
@@ -64,7 +64,7 @@ Profit Margin, and YoY growth with filters for Region, Category, and Time.
 
 ## Repository Structure
 ```
-Task3-Dashboard/
+Task4-Dashboard/
 │── data/
 │   └── sales_data.csv
 │── workbook/
